@@ -36,9 +36,9 @@ b{
     color: black
     
 }
-/*b, .menu-items {
+b, .menu-items {
     justify-content: space-between;
-}*/
+}
 a{
     text-decoration: none;
     color:  #874aad;
