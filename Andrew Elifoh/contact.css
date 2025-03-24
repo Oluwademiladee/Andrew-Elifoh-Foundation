@@ -1,0 +1,53 @@
+html,body{
+    margin: 20px;
+}
+body{
+    background-color: white;
+    color: black;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+footer, p, a{
+    text-align: center;
+}
+footer a:hover{
+    color: yellow;
+}
+a {
+    text-decoration: none;
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+}
+b, .menu-items {
+    justify-content: space-between;
+}
+.menu-items a:hover{
+    color: yellow;
+}
+.menu-items {
+    display: flex;
+    gap: 20px;
+}
+div{
+    text-align: center;
+}
+footer>p{
+    color: white;
+}
+footer{
+    padding-top:15px;
+    padding-bottom: 25px;
+    background-color: black;
+}
+footer>div{
+    color: white;
+    font-size: larger;
+}
+.social{
+    font-size: larger;
+}
